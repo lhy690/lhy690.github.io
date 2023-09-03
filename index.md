@@ -14,7 +14,7 @@ layout: page
 
 ## 学术背景
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[目标]</font> 我希望在2024年秋季学期开始攻读硕士学位！如果您有兴趣，可以联系我！**
 
 - **2020.9 - 2024.6:** 石家庄铁道大学
 - **
