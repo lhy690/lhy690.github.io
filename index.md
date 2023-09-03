@@ -8,18 +8,18 @@ layout: page
 
 
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+我是石家庄铁道大学软件工程专业的一名本科生
 
 <br>
 
-## Academic Background
+## 学术背景
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **2020.9 - 2024.6:** 石家庄铁道大学
+- **
+- **
+- 
 
 <br>
 
