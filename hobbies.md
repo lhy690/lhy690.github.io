@@ -13,41 +13,29 @@ title: Hobbies
 <img src="/images/huodong.JPG">
 <img src="/images/learn.JPG">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
-
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br>  大学里面有很多我感兴趣的东西，其中我参加的院青协组织就是我喜欢的其中之一。在里面的个人经历将是我一生的财富。
+我还很喜欢利用课余时间阅读一些经典著作，丰富我的精神世界** 
 
 
 
-## play & love
+
+## 娱乐 & 喜欢
 
 <div class="second">
 <img src="/images/game1.JPG">
 <img src="/images/game2.JPG">
 
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
+<br>  在大学里面当然，也玩了不少的游戏，其中金铲铲之战和APEXS是我最喜欢玩的两个游戏，有感兴趣的可以一起玩呀。
 
 ## 最爱的运动
 
 <div class="once">
 <img src="/images/paobu.JPG">
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+<br>   我最喜欢的运动就是每天早上起来的慢跑，大汗淋漓的感觉是最舒服的。汗水就是脂肪的眼泪。
 
-## My Cat
 
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
