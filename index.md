@@ -4,7 +4,7 @@ layout: page
 
 # 关于我
 
-<img src="https://lhy690.github.io/liuhuayu.jpg" class="floatpic" width="360" height="480">
+<img src="https://lhy690.com/liuhuayu.jpg" class="floatpic" width="360" height="480">
 
 刘华宇 ( [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
