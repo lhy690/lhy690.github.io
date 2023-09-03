@@ -32,19 +32,19 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Resume
+  - title: 简历
     url: /file/CV-HanlinCAI.pdf
-  - title: Publications
+  - title: 公共
     url: /publications/
-  - title: Awards
+  - title: 奖项
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - title: Hobbies
+  - title: 兴趣爱好
     url: /hobbies/
-  - title: Blogs
+  - title: 博客
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
